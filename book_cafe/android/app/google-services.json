@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569055598382",
+    "project_id": "order-fd661",
+    "storage_bucket": "order-fd661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569055598382:android:071f1c0b7b741d82ac8cbf",
+        "android_client_info": {
+          "package_name": "com.example.book_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569055598382-rob059783kf0nb52aoliekrqolbmi16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Wo0yRCGBsPvQzzwkSnK0D22OPog_d5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569055598382-rob059783kf0nb52aoliekrqolbmi16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
